@@ -110,3 +110,18 @@ body{
     width: 90%;
     background-color: white;
 }
+.icons2{
+    padding: 18px 10px;
+}
+.name-div{
+    padding: 86px 0px 60px 55px;
+    /* margin-left: 40px; */
+    text-align: center;
+    letter-spacing:3px;
+}
+.name-div h1{
+    font-size: 30px;
+}
+.name-div p{
+    margin-bottom: 10px;
+}
