@@ -6,7 +6,7 @@ const profileImage = document.getElementById('profileImage');
 function updateContent() {
     // Check current text and change it accordingly
     if (header.textContent === 'Andrew Ohwoka') {
-        header.textContent = 'Welcome to Andrew Ohwoka\'s resume.';
+        header.textContent = ' Andrew\'s resume';
         profileImage.src = "./image/AndrewOhwoka1.jpg"; // Change image
         
     } else {
