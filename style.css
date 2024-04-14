@@ -114,14 +114,48 @@ body{
     padding: 18px 10px;
 }
 .name-div{
-    padding: 86px 0px 60px 55px;
+    padding: 60px 0px 60px 55px;
     /* margin-left: 40px; */
     text-align: center;
     letter-spacing:3px;
 }
 .name-div h1{
-    font-size: 30px;
-}
-.name-div p{
     margin-bottom: 10px;
+}
+.box-2 {
+    padding: 0px 30px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.p2{
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 1.2px;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-top: 5px;
+}
+h2{
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.icons3{
+    vertical-align: bottom;
+    font: size 21px !important;
+    color:#4d4d4d;
+}
+.p3{    
+    font-size: 13px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+    margin-top: 10px;
+    
+}
+.p3 span{
+    color: black;
+    padding-left: 20px;
+}
+img {
+    height: 180px;
+    width: 210px;
 }
